@@ -1,0 +1,1 @@
+Ett brädspel där spelare röstar för att forma sitt öde. Förvandla husvagnar till 5-stjärniga hotell, samla underverk och gör motståndare bankrutta. Använd flygplatser, organisera VM för att multiplicera din hyra. Kan du skapa ett globalt monopol?

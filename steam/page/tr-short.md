@@ -1,0 +1,1 @@
+Fortune Avenue'nin heyecanını yaşayın, yeniden tasarlanmış bir 3D monopoly oyunu. Havaalanı üzerinden seyahat edin, eriyen buz kütlelerinden kaçının ve Şans Çarkını çevirin. Oyunu değiştiren yeni kurallar için oy verin ve bonus kazanmak için rakiplerinizi eleyin. Hızlı tempolu ve sonsuz eğlence! 🎲 🏨

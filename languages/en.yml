@@ -1,0 +1,624 @@
+en:
+  BUTTON_DONE: Done
+  BUTTON_BUILD_HIVE: Place Hive
+  BUTTON_PLANT_SEED: Plant Seeds
+  BUTTON_REMOVE: Remove
+  BUTTON_CONTINUE: Continue
+  BUTTON_CREATE: New Game
+  BUTTON_LOAD: Load Game
+  BUTTON_OPTIONS: Options
+  BUTTON_BUGREPORT: Bug Report
+  BUTTON_QUIT: Quit
+  BUTTON_ACTION_HARVEST_HONEY: Harvest Honey
+  BUTTON_ACTION_HARVEST_POLLEN: Harvest Pollen
+  BUTTON_ACTION_DISTRIBUTE_SUGAR: Distribute Sugar
+  BUTTON_ACTION_BUY_SUGAR: Buy Sugar
+  BUTTON_ACTION_SEE_HIVE: View Hive
+  BUTTON_CLOSE: Close
+  BUTTON_REFRESH: Refresh
+  BUTTON_DELETE: Delete
+  BUTTON_OVERWRITE: Overwrite
+  BUTTON_CANCEL: Cancel
+  BUTTON_OK: OK
+  BUTTON_SAVEGAME: Save game
+  BUTTON_BUY_SUGAR: Buy sugar
+  BUTTON_HARVEST_HONEY: Harvest honey
+  BUTTON_REMOVE_HIVE: Remove Hive
+  BUTTON_UNLOCK: Unlock
+  BUTTON_TECH_TREE: Technology Tree
+  
+  LABEL_TECH_LOCKED: Tech Locked
+  LABEL_TECH_TREE: Technology Tree
+  LABEL_TECH_COST_DESCRIPTION: |
+    Honey cost: [b]%s kg[/b]
+    Money cost: [b]%s[/b]
+  LABEL_TECH_UNLOCKED: Technology already unlocked
+  LABEL_TECH_CANNOT_UNLOCK: Cannot unlock yet
+
+  LABEL_REGULAR_DESCRIPTION: |
+    The [b]Regular Hive[/b] is the first type of hive you can use.
+  LABEL_RENFORCED_TITLE: Reinforced Hive
+  LABEL_RENFORCED_DESCRIPTION: |
+    The [b]reinforced hive[/b] can house more bees and has a larger storage capacity than the [b]regular hive[/b].
+  LABEL_SUPER_TITLE: Super Hive
+  LABEL_SUPER_DESCRIPTION: |
+    The [b]super hive[/b] can house more bees and has a larger storage capacity than the [b]reinforced hive[/b].
+
+  LABEL_SEPARATION_SIMPLE_TITLE: Simple Separator
+  LABEL_SEPARATION_SIMPLE_DESCRIPTION: |
+    Allows hives to have multiple floors
+  LABEL_SEPARATION_ISOLATED_TITLE: Insulated Separator
+  LABEL_SEPARATION_ISOLATED_DESCRIPTION: |
+    Allows multi-floor hives to better withstand extreme temperatures
+
+  LABEL_EXTENSION_0_TITLE: Add a Floor
+  LABEL_EXTENSION_0_DESCRIPTION: |
+    Adds a floor to the hive
+  LABEL_EXTENSION_1_TITLE: Add an Extra Floor
+  LABEL_EXTENSION_1_DESCRIPTION: |
+    Adds an extra floor to the hive
+  LABEL_EXTENSION_EXTRA_0_TITLE: Add an Extra Floor
+  LABEL_EXTENSION_EXTRA_0_DESCRIPTION: |
+    Adds an extra floor to the hive
+  LABEL_EXTENSION_EXTRA_1_TITLE: Add an Extra Floor
+  LABEL_EXTENSION_EXTRA_1_DESCRIPTION: |
+    Adds an extra floor to the hive
+
+  LABEL_EXTRA_HIVE_0_TITLE: +1 Hive
+  LABEL_EXTRA_HIVE_0_DESCRIPTION: |
+    Allows you to have [b]2 hives[/b]
+  LABEL_EXTRA_HIVE_1_TITLE: +1 Hive
+  LABEL_EXTRA_HIVE_1_DESCRIPTION: |
+    Allows you to have [b]3 hives[/b]
+  LABEL_EXTRA_HIVE_2_TITLE: +1 Hive
+  LABEL_EXTRA_HIVE_2_DESCRIPTION: |
+    Allows you to have [b]4 hives[/b]
+  LABEL_EXTRA_HIVE_3_TITLE: +1 Hive
+  LABEL_EXTRA_HIVE_3_DESCRIPTION: |
+    Allows you to have [b]5 hives[/b]
+  LABEL_EXTRA_HIVE_4_TITLE: +1 Hive
+  LABEL_EXTRA_HIVE_4_DESCRIPTION: |
+    Allows you to have [b]6 hives[/b]
+  LABEL_EXTRA_HIVE_5_TITLE: +1 Hive
+  LABEL_EXTRA_HIVE_5_DESCRIPTION: |
+    Allows you to have [b]7 hives[/b]
+  LABEL_EXTRA_HIVE_6_TITLE: +1 Hive
+  LABEL_EXTRA_HIVE_6_DESCRIPTION: |
+    Allows you to have [b]8 hives[/b]
+  LABEL_EXTRA_HIVE_7_TITLE: +1 Hive
+  LABEL_EXTRA_HIVE_7_DESCRIPTION: |
+    Allows you to have [b]9 hives[/b]
+  LABEL_EXTRA_HIVE_8_TITLE: +1 Hive
+  LABEL_EXTRA_HIVE_8_DESCRIPTION: |
+    Allows you to have [b]10 hives[/b]
+
+  LABEL_HARVEST_0_TITLE: +1% Harvest Speed
+  LABEL_HARVEST_0_DESCRIPTION: |
+    Bees collect pollen and nectar more quickly.
+
+    The bonus is [b]1%[/b] to harvest speed
+  LABEL_HARVEST_1_TITLE: +2% Harvest Speed
+  LABEL_HARVEST_1_DESCRIPTION: |
+    Bees collect pollen and nectar more quickly.
+
+    The bonus is [b]2%[/b] to harvest speed
+  LABEL_HARVEST_2_TITLE: +3% Harvest Speed
+  LABEL_HARVEST_2_DESCRIPTION: |
+    Bees collect pollen and nectar more quickly.
+
+    The bonus is [b]3%[/b] to harvest speed
+  LABEL_HARVEST_3_TITLE: +5% Harvest Speed
+  LABEL_HARVEST_3_DESCRIPTION: |
+    Bees collect pollen and nectar more quickly.
+
+    The bonus is [b]5%[/b] to harvest speed
+  LABEL_HARVEST_4_TITLE: +8% Harvest Speed
+  LABEL_HARVEST_4_DESCRIPTION: |
+    Bees collect pollen and nectar more quickly.
+
+    The bonus is [b]8%[/b] to harvest speed
+  LABEL_HARVEST_5_TITLE: +13% Harvest Speed
+  LABEL_HARVEST_5_DESCRIPTION: |
+    Bees collect pollen and nectar more quickly.
+
+    The bonus is [b]13%[/b] to harvest speed
+  LABEL_HARVEST_6_TITLE: +21% Harvest Speed
+  LABEL_HARVEST_6_DESCRIPTION: |
+    Bees collect pollen and nectar more quickly.
+
+    The bonus is [b]21%[/b] to harvest speed
+  LABEL_HARVEST_7_TITLE: +34% Harvest Speed
+  LABEL_HARVEST_7_DESCRIPTION: |
+    Bees collect pollen and nectar more quickly.
+
+    The bonus is [b]34%[/b] to harvest speed
+  LABEL_HARVEST_8_TITLE: +55% Harvest Speed
+  LABEL_HARVEST_8_DESCRIPTION: |
+    Bees collect pollen and nectar more quickly.
+
+    The bonus is [b]55%[/b] to harvest speed
+
+  LABEL_MOVE_SPEED_0_TITLE: +1% Movement Speed
+  LABEL_MOVE_SPEED_0_DESCRIPTION: |
+    Bees move more quickly.
+
+    The bonus is [b]1%[/b]
+  LABEL_MOVE_SPEED_1_TITLE: +2% Movement Speed
+  LABEL_MOVE_SPEED_1_DESCRIPTION: |
+    Bees move more quickly.
+
+    The bonus is [b]2%[/b]
+  LABEL_MOVE_SPEED_2_TITLE: +3% Movement Speed
+  LABEL_MOVE_SPEED_2_DESCRIPTION: |
+    Bees move more quickly.
+
+    The bonus is [b]3%[/b]
+  LABEL_MOVE_SPEED_3_TITLE: +5% Movement Speed
+  LABEL_MOVE_SPEED_3_DESCRIPTION: |
+    Bees move more quickly.
+
+    The bonus is [b]5%[/b]
+  LABEL_MOVE_SPEED_4_TITLE: +8% Movement Speed
+  LABEL_MOVE_SPEED_4_DESCRIPTION: |
+    Bees move more quickly.
+
+    The bonus is [b]8%[/b]
+  LABEL_MOVE_SPEED_5_TITLE: +13% Movement Speed
+  LABEL_MOVE_SPEED_5_DESCRIPTION: |
+    Bees move more quickly.
+
+    The bonus is [b]13%[/b]
+  LABEL_MOVE_SPEED_6_TITLE: +21% Movement Speed
+  LABEL_MOVE_SPEED_6_DESCRIPTION: |
+    Bees move more quickly.
+
+    The bonus is [b]21%[/b]
+  LABEL_MOVE_SPEED_7_TITLE: +34% Movement Speed
+  LABEL_MOVE_SPEED_7_DESCRIPTION: |
+    Bees move more quickly.
+
+    The bonus is [b]34%[/b]
+  LABEL_MOVE_SPEED_8_TITLE: +55% Movement Speed
+  LABEL_MOVE_SPEED_8_DESCRIPTION: |
+    Bees move more quickly.
+
+    The bonus is [b]55%[/b]
+
+  LABEL_ROOF_WHITE_TITLE: White Roof
+  LABEL_ROOF_WHITE_DESCRIPTION: |
+    The white roof is better insulated and allows larvae to develop at more extreme temperatures.
+
+    Supports temperatures between [b]10 and 30 degrees Celsius[/b]
+  LABEL_ROOF_TRIANGLE_TITLE: Traditional Roof
+  LABEL_ROOF_TRIANGLE_DESCRIPTION: |
+    The traditional roof allows more larvae to be stored while providing the same insulation as the [b]White Roof[/b].
+
+    Adds [b]10 extra spaces for larvae[/b]
+
+  LABEL_LIFESPAN_0_TITLE: +1% Lifespan
+  LABEL_LIFESPAN_0_DESCRIPTION: |
+    Allows bees to live longer.
+
+    The bonus is [b]1%[/b]
+  LABEL_LIFESPAN_1_TITLE: +2% Lifespan
+  LABEL_LIFESPAN_1_DESCRIPTION: |
+    Allows bees to live longer.
+
+    The bonus is [b]2%[/b]
+  LABEL_LIFESPAN_2_TITLE: +3% Lifespan
+  LABEL_LIFESPAN_2_DESCRIPTION: |
+    Allows bees to live longer.
+
+    The bonus is [b]3%[/b]
+  LABEL_LIFESPAN_3_TITLE: +5% Lifespan
+  LABEL_LIFESPAN_3_DESCRIPTION: |
+    Allows bees to live longer.
+
+    The bonus is [b]5%[/b]
+  LABEL_LIFESPAN_4_TITLE: +8% Lifespan
+  LABEL_LIFESPAN_4_DESCRIPTION: |
+    Allows bees to live longer.
+
+    The bonus is [b]8%[/b]
+  LABEL_LIFESPAN_5_TITLE: +13% Lifespan
+  LABEL_LIFESPAN_5_DESCRIPTION: |
+    Allows bees to live longer.
+
+    The bonus is [b]13%[/b]
+  LABEL_LIFESPAN_6_TITLE: +21% Lifespan
+  LABEL_LIFESPAN_6_DESCRIPTION: |
+    Allows bees to live longer.
+
+    The bonus is [b]21%[/b]
+  LABEL_LIFESPAN_7_TITLE: +34% Lifespan
+  LABEL_LIFESPAN_7_DESCRIPTION: |
+    Allows bees to live longer.
+
+    The bonus is [b]34%[/b]
+  LABEL_LIFESPAN_8_TITLE: +55% Lifespan
+  LABEL_LIFESPAN_8_DESCRIPTION: |
+    Allows bees to live longer.
+
+    The bonus is [b]55%[/b]
+  LABEL_NIGHT_TITLE: Night Harvest
+  LABEL_NIGHT_DESCRIPTION: |
+    Allows you to harvest honey during the night.
+
+    Night harvesting lets you discover new types of honey.
+
+  LABEL_QUALITY_3_TITLE: 3-Star Honey
+  LABEL_QUALITY_3_DESCRIPTION: |
+    Allows your hives to produce [b]3-star[/b] honey.
+
+    3-star honey sells for more than 2-star honey.
+  LABEL_QUALITY_4_TITLE: 4-Star Honey
+  LABEL_QUALITY_4_DESCRIPTION: |
+    Allows your hives to produce [b]4-star[/b] honey.
+
+    4-star honey sells for more than 3-star honey.
+  LABEL_QUALITY_5_TITLE: Exceptional Honey
+  LABEL_QUALITY_5_DESCRIPTION: |
+    Allows your hives to produce [b]5-star[/b] honey.
+
+    5-star honey sells for more than 4-star honey.
+  LABEL_POLLEN_BONUS_0_TITLE: +1% Pollen
+  LABEL_POLLEN_BONUS_0_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more pollen.
+
+    The bonus is [b]1%[/b]
+  LABEL_POLLEN_BONUS_1_TITLE: +2% Pollen
+  LABEL_POLLEN_BONUS_1_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more pollen.
+
+    The bonus is [b]2%[/b]
+  LABEL_POLLEN_BONUS_2_TITLE: +3% Pollen
+  LABEL_POLLEN_BONUS_2_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more pollen.
+
+    The bonus is [b]3%[/b]
+  LABEL_POLLEN_BONUS_3_TITLE: +5% Pollen
+  LABEL_POLLEN_BONUS_3_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more pollen.
+
+    The bonus is [b]5%[/b]
+  LABEL_POLLEN_BONUS_4_TITLE: +8% Pollen
+  LABEL_POLLEN_BONUS_4_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more pollen.
+
+    The bonus is [b]8%[/b]
+  LABEL_POLLEN_BONUS_5_TITLE: +13% Pollen
+  LABEL_POLLEN_BONUS_5_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more pollen.
+
+    The bonus is [b]13%[/b]
+  LABEL_POLLEN_BONUS_6_TITLE: +21% Pollen
+  LABEL_POLLEN_BONUS_6_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more pollen.
+
+    The bonus is [b]21%[/b]
+  LABEL_POLLEN_BONUS_7_TITLE: +34% Pollen
+  LABEL_POLLEN_BONUS_7_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more pollen.
+
+    The bonus is [b]34%[/b]
+  LABEL_POLLEN_BONUS_8_TITLE: +55% Pollen
+  LABEL_POLLEN_BONUS_8_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more pollen.
+
+    The bonus is [b]55%[/b]
+  LABEL_NECTARE_BONUS_0_TITLE: +1% Nectar
+  LABEL_NECTARE_BONUS_0_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more nectar, which is used to make honey.
+
+    The bonus is [b]1%[/b]
+  LABEL_NECTARE_BONUS_1_TITLE: +2% Nectar
+  LABEL_NECTARE_BONUS_1_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more nectar, which is used to make honey.
+
+    The bonus is [b]2%[/b]
+  LABEL_NECTARE_BONUS_2_TITLE: +3% Nectar
+  LABEL_NECTARE_BONUS_2_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more nectar, which is used to make honey.
+
+    The bonus is [b]3%[/b]
+  LABEL_NECTARE_BONUS_3_TITLE: +5% Nectar
+  LABEL_NECTARE_BONUS_3_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more nectar, which is used to make honey.
+
+    The bonus is [b]5%[/b]
+  LABEL_NECTARE_BONUS_4_TITLE: +8% Nectar
+  LABEL_NECTARE_BONUS_4_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more nectar, which is used to make honey.
+
+    The bonus is [b]8%[/b]
+  LABEL_NECTARE_BONUS_5_TITLE: +13% Nectar
+  LABEL_NECTARE_BONUS_5_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more nectar, which is used to make honey.
+
+    The bonus is [b]13%[/b]
+  LABEL_NECTARE_BONUS_6_TITLE: +21% Nectar
+  LABEL_NECTARE_BONUS_6_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more nectar, which is used to make honey.
+
+    The bonus is [b]21%[/b]
+  LABEL_NECTARE_BONUS_7_TITLE: +34% Nectar
+  LABEL_NECTARE_BONUS_7_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more nectar, which is used to make honey.
+
+    The bonus is [b]34%[/b]
+  LABEL_NECTARE_BONUS_8_TITLE: +55% Nectar
+  LABEL_NECTARE_BONUS_8_DESCRIPTION: |
+    Allows [b]flowers[/b] to produce more nectar, which is used to make honey.
+
+    The bonus is [b]55%[/b]
+  LABEL_ASTER_UNLOCK_TITLE: Aster Seeds
+  LABEL_ASTER_UNLOCK_DESCRIPTION: |
+    Allows you to plant [b]Aster[/b] flower seeds
+  LABEL_CINQUEFOIL_UNLOCK_TITLE: Cinquefoil Seeds
+  LABEL_CINQUEFOIL_UNLOCK_DESCRIPTION: |
+    Allows you to plant [b]Cinquefoil[/b] flower seeds
+  LABEL_LAVANDER_UNLOCK_TITLE: Lavender Seeds
+  LABEL_LAVANDER_UNLOCK_DESCRIPTION: |
+    Allows you to plant [b]Lavender[/b] flower seeds
+  LABEL_SUNFLOWER_UNLOCK_TITLE: Sunflower Seeds
+  LABEL_SUNFLOWER_UNLOCK_DESCRIPTION: |
+    Allows you to plant [b]Sunflower[/b] seeds
+  LABEL_VERBENA_UNLOCK_TITLE: Verbena Seeds
+  LABEL_VERBENA_UNLOCK_DESCRIPTION: |
+    Allows you to plant [b]Verbena[/b] flower seeds
+  LABEL_DAHLIA_UNLOCK_TITLE: Dahlia Seeds
+  LABEL_DAHLIA_UNLOCK_DESCRIPTION: |
+    Allows you to plant [b]Dahlia[/b] flower seeds
+  LABEL_CROCUS_UNLOCK_TITLE: Crocus Seeds
+  LABEL_CROCUS_UNLOCK_DESCRIPTION: |
+    Allows you to plant [b]Crocus[/b] flower seeds
+  LABEL_HELLEBORE_UNLOCK_TITLE: Hellebore Seeds
+  LABEL_HELLEBORE_UNLOCK_DESCRIPTION: |
+    Allows you to plant [b]Hellebore[/b] flower seeds
+  LABEL_SNOWDROP_UNLOCK_TITLE: Snowdrop Seeds
+  LABEL_SNOWDROP_UNLOCK_DESCRIPTION: |
+    Allows you to plant [b]Snowdrop[/b] flower seeds
+  LABEL_YIELD_70_TITLE: 70% Yield
+  LABEL_YIELD_70_DESCRIPTION: |
+    Increases honey harvest yield to [b]70%[/b].
+
+    The remainder is lost in the process.
+  LABEL_YIELD_75_TITLE: 75% Yield
+  LABEL_YIELD_75_DESCRIPTION: |
+    Increases honey harvest yield to [b]75%[/b].
+
+    The remainder is lost in the process.
+  LABEL_YIELD_80_TITLE: 80% Yield
+  LABEL_YIELD_80_DESCRIPTION: |
+    Increases honey harvest yield to [b]80%[/b].
+
+    The remainder is lost in the process.
+  LABEL_YIELD_85_TITLE: 85% Yield
+  LABEL_YIELD_85_DESCRIPTION: |
+    Increases honey harvest yield to [b]85%[/b].
+
+    The remainder is lost in the process.
+  LABEL_YIELD_90_TITLE: 90% Yield
+  LABEL_YIELD_90_DESCRIPTION: |
+    Increases honey harvest yield to [b]90%[/b].
+
+    The remainder is lost in the process.
+  LABEL_YIELD_95_TITLE: 95% Yield
+  LABEL_YIELD_95_DESCRIPTION: |
+    Increases honey harvest yield to [b]95%[/b].
+
+    The remainder is lost in the process.
+  LABEL_YIELD_100_TITLE: Perfect Yield
+  LABEL_YIELD_100_DESCRIPTION: |
+    Increases honey harvest yield to [b]100%[/b].
+
+    Nothing is lost, everything is transformed.
+  LABEL_STARTING_QUALITY_2_TITLE: 2-Star Quality
+  LABEL_STARTING_QUALITY_2_DESCRIPTION: |
+    The honey produced by your hives is at least 2-star quality.
+
+    Very handy when you want to place more hives.
+  LABEL_STARTING_QUALITY_3_TITLE: 3-Star Quality
+  LABEL_STARTING_QUALITY_3_DESCRIPTION: |
+    The honey produced by your hives is at least 3-star quality.
+
+    Quality matters!
+  LABEL_HIVE_AGE: Hive Age
+  LABEL_HIVE_QUALITY: Honey Quality Produced
+  LABEL_YEAR: Year(s)
+  LABEL_HIVE_PRODUCTION_RAW: Gross Production
+  LABEL_HIVE_CONSUMPTION: Consumption
+  LABEL_HIVE_PRODUCTION_NET: Net Production
+  LABEL_FLOOR_TYPE: Ground Type
+  LABEL_FLOOR_GRASS: Grassland
+  LABEL_FLOOR_ROCK: Rocky
+  LABEL_SELECT_HIVE: Select a  [pulse freq=1.0 color=#ffffff40 ease=-2.0][b]HIVE[/b][/pulse]
+  LABEL_SELECT_SEED: Select a  [pulse freq=1.0 color=#ffffff40 ease=-2.0][b]SEED[/b][/pulse]
+  LABEL_DAY_CYCLE_NIGHT: Night
+  LABEL_DAY_CYCLE_MORNING: Morning
+  LABEL_DAY_CYCLE_EVENING: Evening
+  LABEL_DAY_CYCLE_AFTERNOON: Afternoon
+  LABEL_HIVE_LARVA: Larvas
+  LABEL_HIVE_BEE: Bees
+  LABEL_HIVE_POPULATION: Population
+  LABEL_HIVE_MONTHLY_CONSUMPTION_NECTARE: Monthly Nectar Consumption
+  LABEL_HIVE_MONTHLY_CONSUMPTION_POLLEN: Monthly Pollen Consumption
+  LABEL_HIVE_MONTHLY_CONSUMPTION_WATER: Monthly Water Consumption
+  LABEL_HIVE_NECTARE: Nectar
+  LABEL_HIVE_SUGAR: Sugar
+  LABEL_HIVE_POLLEN: Pollen
+  LABEL_HIVE_WATER: Water
+  LABEL_HIVE_HONEY: Honey
+  LABEL_HIVE_BIRTH: Births
+  LABEL_HIVE_RESOURCES: Resources
+  LABEL_HIVE_MONTHLY_CONSUMPTION: Monthly Consumption
+  LABEL_HIVE_MONTHLY_PRODUCTIVITY: Monthly Production
+  LABEL_HIVE_PRODUCTIVITY: Productivity
+  LABEL_SEASON_WINTER: Winter
+  LABEL_SEASON_SPRING: Spring
+  LABEL_SEASON_SUMMER: Summer
+  LABEL_SEASON_AUTUMN: Automn
+  LABEL_OBJECT_WATER: Water
+  LABEL_OBJECT_ROCK: Rock
+  LABEL_OBJECT_PEBBLE: Pebble
+  LABEL_OBJECT_TREE: Tree
+  LABEL_OBJECT_BUSH: Bush
+  LABEL_OBJECT_HIVE: Hive
+  LABEL_OBJECT_GRASS: Weeds
+  LABEL_OBJECT_WILD_FLOWERS: Wild Flowers
+  LABEL_DAY: Day
+  LABEL_FLOWER_PLANT: Ready to Plant
+  LABEL_QUANTITY_NONE: None
+  LABEL_QUANTITY_LOW: Low
+  LABEL_QUANTITY_NORMAL: Normal
+  LABEL_QUANTITY_ABUNDANT: Abundant
+  LABEL_QUANTITY_VERY_ABUNDANT: Very Abundant
+  LABEL_GROWTH_SLOW: Slow
+  LABEL_GROWTH_FAST: Fast
+  LABEL_GROWTH_NORMAL: Normal
+  LABEL_FLOWER_GROWTH: Growth
+  LABEL_FLOWER_BLOOMING: Blooming
+  LABEL_FLOWER_MATURITY: Maturity
+  LABEL_FLOWER_GROWING: Growing
+  LABEL_FLOWER_YOUNG: Seedling
+  LABEL_FLOWER_DEVELOPMENT: Development
+  LABEL_FLOWER_MATURE: Mature
+  LABEL_FLOWER_NECTAR: Nectar
+  LABEL_FLOWER_POLLEN: Pollen
+  LABEL_MONTH_JANUARY: January
+  LABEL_MONTH_FEBRUARY: February
+  LABEL_MONTH_MARCH: March
+  LABEL_MONTH_APRIL: April
+  LABEL_MONTH_MAY: May
+  LABEL_MONTH_JUNE: June
+  LABEL_MONTH_JULY: July
+  LABEL_MONTH_AUGUST: August
+  LABEL_MONTH_SEPTEMBER: September
+  LABEL_MONTH_OCTOBER: October
+  LABEL_MONTH_NOVEMBER: November
+  LABEL_MONTH_DECEMBER: December
+  LABEL_FLOWER_ASTER: Aster
+  LABEL_FLOWER_CHRYSANTHEME: Chrysanthemum
+  LABEL_FLOWER_BOURRACHE: Borage
+  LABEL_FLOWER_POTENTILLE: Cinquefoil
+  LABEL_FLOWER_LAVANDE: Lavender
+  LABEL_FLOWER_TOURNESOL: Sunflower
+  LABEL_FLOWER_VERVEINE: Verbena
+  LABEL_FLOWER_DAHLIA: Dahlia
+  LABEL_FLOWER_CROCUS: Crocus
+  LABEL_FLOWER_HELLEBORE: Hellebore
+  LABEL_FLOWER_PERCENEIGE: Snowdrop
+  LABEL_HONEY_SPRING: Spring Honey
+  LABEL_HONEY_SUMMER: Summer Honey
+  LABEL_HONEY_FLOWERS: Wildflower Honey
+  LABEL_HONEY_ASTER: Aster Honey
+  LABEL_HONEY_CHRYSANTHEME: Chrysanthemum Honey
+  LABEL_HONEY_BOURRACHE: Borage Honey
+  LABEL_HONEY_POTENTILLE: Cinquefoil Honey
+  LABEL_HONEY_LAVANDE: Lavender Honey
+  LABEL_HONEY_TOURNESOL: Sunflower Honey
+  LABEL_HONEY_VERVEINE: Verbena Honey
+  LABEL_HONEY_CROCUS: Crocus Honey
+  LABEL_HONEY_HELLEBORE: Hellebore Honey
+  LABEL_HONEY_PERCENEIGE: Snowdrop Honey
+
+  LABEL_OPTION_PANEL: Options
+  LABEL_MUSIC_VOLUME: Music Volume
+  LABEL_SOUNDFX_VOLUME: Sound Effects Volume
+  LABEL_WINDOWS_FULLSCREEN: Fullscreen
+
+  LABEL_NOTIFICATION_WEATHER_TOO_HOT_TO_LAY_EGG: |
+    Your hive is making arrangements to survive the extreme heat.
+    The queen is taking measures to preserve herself, and is not laying eggs for the moment.
+  LABEL_NOTIFICATION_WEATHER_TOO_HOT_TO_WORK: |
+    It's so hot outside, it would be too dangerous for the bees to go out to work.
+    They will stay cool for now.
+  LABEL_NOTIFICATION_WEATHER_TOO_COLD_TO_WORK: |
+    It's so cold outside, it would be too dangerous for the bees to go out to work.
+    They will stay warm for now.
+  LABEL_NOTIFICATION_WEATHER_TOO_COLD_TO_LAY_EGG: |
+    Bees are making arrangements to survive the polar cold.
+    The queen is taking measures to preserve herself, and is not laying eggs for the moment.
+  LABEL_NOTIFICATION_WEATHER_TOO_WIND_TO_WORK: |
+    There's too much wind to work. The bees wouldn't be able to orient themselves.
+    They will stay warm for now.
+  LABEL_NOTIFICATION_WEATHER_TOO_RAINY_TO_WORK: |
+    There's too much rain to work. The bees wouldn't be able to fly.
+    They will stay warm for now.
+  LABEL_NOTIFICATION_HIVE_FULL_OF_POLLEN: |
+    Your bees have worked well.
+    It's time to harvest the pollen.
+  LABEL_NOTIFICATION_HIVE_FULL_OF_HONEY: |
+    Your bees have worked well.
+    It's time to harvest the honey.
+  LABEL_NOTIFICATION_HIVE_NEED_SUGAR: |
+    Your bees are hungry, you should give them some sugar.
+  LABEL_NOTIFICATION_HIVE_NO_FLOWER_TO_HARVEST: |
+    Your bees can't find any flowers to forage.
+    Perhaps you should plant some.
+  LABEL_NOTIFICATION_NO_MORE_SUGAR: |
+    There's no more sugar in the warehouse!
+
+  LABEL_LOAD_SAVEGAME: Load Save
+  LABEL_SAVEGAME_OVERWRITE_TITLE: Overwrite Save?
+  LABEL_SAVEGAME_OVERWRITE_DESCRIPTION: A save already exists with this name. Do you want to overwrite it?
+  LABEL_SAVEGAME_NAME_TITLE: Save Name
+  LABEL_HONEY_AUTUMN: Autumn Honey
+  LABEL_HONEY_MOON: HoneyMoon
+  LABEL_HONEY_FAIRYNIGHT: Fairy Night Honey
+  LABEL_HONEY_MIDSUMMER: Midsummer Night's Honey
+  LABEL_HONEY_HARVESTMOON: Harvest Moon Honey
+
+  LABEL_HARVEST_HONEY_TITLE: Honey Harvest
+  LABEL_FLOWER_COMPOSITION: Flower List
+  LABEL_ADDED_TO_YOUR_STOCK: Added to your stock
+  LABEL_INVALID_FLOWER_COMPOSITION: Not enough flowers
+  LABEL_UNKNOWN_HONEY: Unknown Honey
+  LABEL_LIST_OF_HONEY: Honey List
+  LABEL_HONEY_TOTAL_QUANTITY: Total Honey Quantity
+
+  PLACEHOLDER_SAVEGAME_NAME: Enter save name...
+
+  TOOLTIP_CANNOT_BUILD_MORE_HIVE_MAX: |
+    You have reached the maximum number of hives.
+    You cannot build any more.
+  TOOLTIP_CANNOT_BUILD_MORE_HIVE: |
+    You cannot build any more hives for now.
+
+    But you can unlock a new technology that will allow you to place an additional hive.
+  TOOLTIP_HARVEST_HONEY: |
+    Click this button to harvest all the honey.
+
+    Once harvested, all the nectar in the hive will be consumed.
+    You should make sure the hive has enough sugar
+    before harvesting the honey.
+  TOOLTIP_CANNOT_HARVEST_HONEY: |
+    Either there is not enough nectar, or the flowers that make up
+    this nectar will not make good honey.
+  TOOLTIP_HIVE_FULL_OF_HONEY: |
+    The hive is full of honey.
+
+    So the bees no longer need to work.
+    You can either expand the hive to store more honey,
+    or harvest the honey to make room.
+  TOOLTIP_CANNOT_PLANT_SEED: |
+    You [b]cannot[/b] plant [pulse freq=1.0 color=#ffffff40 ease=-2.0][b]%ss[/b][/pulse] yet.  You'll be able to plant them starting in [b]%s[/b].
+  TOOLTIP_SHOW_TOOLTIP: |
+    Show/hide tooltips
+  TOOLTIP_SHOW_FLOWER_PANEL: |
+    Show/hide flower panels
+  TOOLTIP_HIVE_SUGAR_FULL: |
+    The hive is full of sugar
+  TOOLTIP_HIVE_BUY_SUGAR: |
+    Buy %.02f kg of sugar for $%0.2f
+  TOOLTIP_NOT_ENOUGH_MONEY: |
+    Not enough money
+  TOOLTIP_HIVE_NO_HONEY_TO_HARVEST: |
+    No honey to harvest
+  TOOLTIP_NO_HONEY: |
+    You don't have any honey.
+
+    To harvest some, click on a hive.
+  TOOLTIP_CANNOT_BUY_NOT_ENOUGH_HONEY_OR_MONEY: |
+    You don't have enough honey or money to buy this.
+    

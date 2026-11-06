@@ -1,0 +1,615 @@
+fr:
+  BUTTON_DONE: Terminé
+  BUTTON_BUILD_HIVE: Placer une rûche
+  BUTTON_PLANT_SEED: Planter des graines
+  BUTTON_REMOVE: Supprimer
+  BUTTON_CONTINUE: Continuer
+  BUTTON_CREATE: Nouvelle partie
+  BUTTON_LOAD: Charger
+  BUTTON_OPTIONS: Options
+  BUTTON_BUGREPORT: Signaler un bug
+  BUTTON_QUIT: Quitter
+  BUTTON_ACTION_HARVEST_HONEY: Récolter le miel
+  BUTTON_ACTION_HARVEST_POLLEN: Récolter le pollen
+  BUTTON_ACTION_DISTRIBUTE_SUGAR: Distribuer du sucre
+  BUTTON_ACTION_BUY_SUGAR: Acheter du sucre
+  BUTTON_ACTION_SEE_HIVE: Voir la rûche
+  BUTTON_CLOSE: Fermer
+  BUTTON_REFRESH: Actualiser
+  BUTTON_DELETE: Supprimer
+  BUTTON_OVERWRITE: Écraser
+  BUTTON_CANCEL: Annuler
+  BUTTON_OK: OK
+  BUTTON_SAVEGAME: Sauvegarder
+  BUTTON_BUY_SUGAR: Acheter du sucre
+  BUTTON_HARVEST_HONEY: Récolter le miel
+  BUTTON_REMOVE_HIVE: Supprimer la rûche
+  BUTTON_UNLOCK: Débloquer
+  BUTTON_TECH_TREE: Arbre de technologies
+
+  LABEL_TECH_LOCKED: Technologie verrouillée
+  LABEL_TECH_TREE: Arbre de technologies
+  LABEL_TECH_COST_DESCRIPTION: |
+    Coûts en miel : [b]%s kg[/b]
+    Coûts en argent : [b]%s[/b]
+  LABEL_TECH_UNLOCKED: Technologie déjà débloquée
+  LABEL_TECH_CANNOT_UNLOCK: Impossible à débloquer pour le moment
+
+  LABEL_REGULAR_DESCRIPTION: |
+    La [b]Ruche régulière[/b] est le premier type de ruche que vous pouvez utiliser.
+  LABEL_RENFORCED_TITLE: Ruche renforcée
+  LABEL_RENFORCED_DESCRIPTION: |
+    La [b]ruche renforcée[/b] permet d'abriter plus d'abeilles et possède un plus grand espace de stockage que la [b]ruche régulière[/b].
+  LABEL_SUPER_TITLE: Super ruche
+  LABEL_SUPER_DESCRIPTION: |
+    La [b]super ruche[/b] permet d'abriter plus d'abeilles et possède un plus grand espace de stockage que la [b]ruche renforcée[/b].
+  LABEL_SEPARATION_SIMPLE_TITLE: Séparation simple
+  LABEL_SEPARATION_SIMPLE_DESCRIPTION: |
+    Permet d'avoir des ruches à plusieurs étages
+  LABEL_SEPARATION_ISOLATED_TITLE: Séparation isolée
+  LABEL_SEPARATION_ISOLATED_DESCRIPTION: |
+    Permet aux ruches à étages de mieux résister aux températures extrêmes
+  LABEL_EXTENSION_0_TITLE: Ajouter un étage
+  LABEL_EXTENSION_0_DESCRIPTION: |
+    Ajoute un étage à la ruche
+  LABEL_EXTENSION_1_TITLE: Ajouter un étage supplémentaire
+  LABEL_EXTENSION_1_DESCRIPTION: |
+    Ajoute un étage supplémentaire à la ruche
+  LABEL_EXTENSION_EXTRA_0_TITLE: Ajouter un étage supplémentaire
+  LABEL_EXTENSION_EXTRA_0_DESCRIPTION: |
+    Ajoute un étage supplémentaire à la ruche
+  LABEL_EXTENSION_EXTRA_1_TITLE: Ajouter un étage supplémentaire
+  LABEL_EXTENSION_EXTRA_1_DESCRIPTION: |
+    Ajoute un étage supplémentaire à la ruche
+  LABEL_EXTRA_HIVE_0_TITLE: +1 ruche
+  LABEL_EXTRA_HIVE_0_DESCRIPTION: |
+    Permet d'avoir [b]2 ruches[/b]
+  LABEL_EXTRA_HIVE_1_TITLE: +1 ruche
+  LABEL_EXTRA_HIVE_1_DESCRIPTION: |
+    Permet d'avoir [b]3 ruches[/b]
+  LABEL_EXTRA_HIVE_2_TITLE: +1 ruche
+  LABEL_EXTRA_HIVE_2_DESCRIPTION: |
+    Permet d'avoir [b]4 ruches[/b]
+  LABEL_EXTRA_HIVE_3_TITLE: +1 ruche
+  LABEL_EXTRA_HIVE_3_DESCRIPTION: |
+    Permet d'avoir [b]5 ruches[/b]
+  LABEL_EXTRA_HIVE_4_TITLE: +1 ruche
+  LABEL_EXTRA_HIVE_4_DESCRIPTION: |
+    Permet d'avoir [b]6 ruches[/b]
+  LABEL_EXTRA_HIVE_5_TITLE: +1 ruche
+  LABEL_EXTRA_HIVE_5_DESCRIPTION: |
+    Permet d'avoir [b]7 ruches[/b]
+  LABEL_EXTRA_HIVE_6_TITLE: +1 ruche
+  LABEL_EXTRA_HIVE_6_DESCRIPTION: |
+    Permet d'avoir [b]8 ruches[/b]
+  LABEL_EXTRA_HIVE_7_TITLE: +1 ruche
+  LABEL_EXTRA_HIVE_7_DESCRIPTION: |
+    Permet d'avoir [b]9 ruches[/b]
+  LABEL_EXTRA_HIVE_8_TITLE: +1 ruche
+  LABEL_EXTRA_HIVE_8_DESCRIPTION: |
+    Permet d'avoir [b]10 ruches[/b]
+  LABEL_HARVEST_0_TITLE: +1% de récolte
+  LABEL_HARVEST_0_DESCRIPTION: |
+    Les abeilles récoltent plus rapidement le pollen et le nectare.
+
+    Le bonus est de [b]1%[/b] sur la récolte
+  LABEL_HARVEST_1_TITLE: +2% de récolte
+  LABEL_HARVEST_1_DESCRIPTION: |
+    Les abeilles récoltent plus rapidement le pollen et le nectare.
+
+    Le bonus est de [b]2%[/b] sur la récolte
+  LABEL_HARVEST_2_TITLE: +3% de récolte
+  LABEL_HARVEST_2_DESCRIPTION: |
+    Les abeilles récoltent plus rapidement le pollen et le nectare.
+
+    Le bonus est de [b]3%[/b] sur la récolte
+  LABEL_HARVEST_3_TITLE: +5% de récolte
+  LABEL_HARVEST_3_DESCRIPTION: |
+    Les abeilles récoltent plus rapidement le pollen et le nectare.
+
+    Le bonus est de [b]5%[/b] sur la récolte
+  LABEL_HARVEST_4_TITLE: +8% de récolte
+  LABEL_HARVEST_4_DESCRIPTION: |
+    Les abeilles récoltent plus rapidement le pollen et le nectare.
+
+    Le bonus est de [b]8%[/b] sur la récolte
+  LABEL_HARVEST_5_TITLE: +13% de récolte
+  LABEL_HARVEST_5_DESCRIPTION: |
+    Les abeilles récoltent plus rapidement le pollen et le nectare.
+
+    Le bonus est de [b]13%[/b] sur la récolte
+  LABEL_HARVEST_6_TITLE: +21% de récolte
+  LABEL_HARVEST_6_DESCRIPTION: |
+    Les abeilles récoltent plus rapidement le pollen et le nectare.
+
+    Le bonus est de [b]21%[/b] sur la récolte
+  LABEL_HARVEST_7_TITLE: +34% de récolte
+  LABEL_HARVEST_7_DESCRIPTION: |
+    Les abeilles récoltent plus rapidement le pollen et le nectare.
+
+    Le bonus est de [b]34%[/b] sur la récolte
+  LABEL_HARVEST_8_TITLE: +55% de récolte
+  LABEL_HARVEST_8_DESCRIPTION: |
+    Les abeilles récoltent plus rapidement le pollen et le nectare.
+
+    Le bonus est de [b]55%[/b] sur la récolte
+  LABEL_MOVE_SPEED_0_TITLE: +1% de vitesse de déplacement
+  LABEL_MOVE_SPEED_0_DESCRIPTION: |
+    Les abeilles se déplacent plus rapidement.
+
+    Le bonus est de [b]1%[/b]
+  LABEL_MOVE_SPEED_1_TITLE: +2% de vitesse de déplacement
+  LABEL_MOVE_SPEED_1_DESCRIPTION: |
+    Les abeilles se déplacent plus rapidement.
+
+    Le bonus est de [b]2%[/b]
+  LABEL_MOVE_SPEED_2_TITLE: +3% de vitesse de déplacement
+  LABEL_MOVE_SPEED_2_DESCRIPTION: |
+    Les abeilles se déplacent plus rapidement.
+
+    Le bonus est de [b]3%[/b]
+  LABEL_MOVE_SPEED_3_TITLE: +5% de vitesse de déplacement
+  LABEL_MOVE_SPEED_3_DESCRIPTION: |
+    Les abeilles se déplacent plus rapidement.
+
+    Le bonus est de [b]5%[/b]
+  LABEL_MOVE_SPEED_4_TITLE: +8% de vitesse de déplacement
+  LABEL_MOVE_SPEED_4_DESCRIPTION: |
+    Les abeilles se déplacent plus rapidement.
+
+    Le bonus est de [b]8%[/b]
+  LABEL_MOVE_SPEED_5_TITLE: +13% de vitesse de déplacement
+  LABEL_MOVE_SPEED_5_DESCRIPTION: |
+    Les abeilles se déplacent plus rapidement.
+
+    Le bonus est de [b]13%[/b]
+  LABEL_MOVE_SPEED_6_TITLE: +21% de vitesse de déplacement
+  LABEL_MOVE_SPEED_6_DESCRIPTION: |
+    Les abeilles se déplacent plus rapidement.
+
+    Le bonus est de [b]21%[/b]
+  LABEL_MOVE_SPEED_7_TITLE: +34% de vitesse de déplacement
+  LABEL_MOVE_SPEED_7_DESCRIPTION: |
+    Les abeilles se déplacent plus rapidement.
+
+    Le bonus est de [b]34%[/b]
+  LABEL_MOVE_SPEED_8_TITLE: +55% de vitesse de déplacement
+  LABEL_MOVE_SPEED_8_DESCRIPTION: |
+    Les abeilles se déplacent plus rapidement.
+
+    Le bonus est de [b]55%[/b]
+  LABEL_ROOF_WHITE_TITLE: Toiture blanche
+  LABEL_ROOF_WHITE_DESCRIPTION: |
+    La toiture blanche est mieux isolée et permet aux larves de se développer à des températures plus extrêmes.
+
+    Supporte des températures entre [b]10 degrés et 30 degrés Celsius[/b]
+  LABEL_ROOF_TRIANGLE_TITLE: Toiture traditionnelle
+  LABEL_ROOF_TRIANGLE_DESCRIPTION: |
+    La toiture traditionnelle permet de stocker plus de larves tout en isolant aussi bien que la [b]Toiture blanche[/b].
+
+    Ajoute [b]10 espaces supplémentaires pour les larves[/b]
+  LABEL_LIFESPAN_0_TITLE: +1% de durée de vie
+  LABEL_LIFESPAN_0_DESCRIPTION: |
+    Permet aux abeilles de vivre plus longtemps.
+
+    Le bonus est de [b]1%[/b]
+  LABEL_LIFESPAN_1_TITLE: +2% de durée de vie
+  LABEL_LIFESPAN_1_DESCRIPTION: |
+    Permet aux abeilles de vivre plus longtemps.
+
+    Le bonus est de [b]2%[/b]
+  LABEL_LIFESPAN_2_TITLE: +3% de durée de vie
+  LABEL_LIFESPAN_2_DESCRIPTION: |
+    Permet aux abeilles de vivre plus longtemps.
+
+    Le bonus est de [b]3%[/b]
+  LABEL_LIFESPAN_3_TITLE: +5% de durée de vie
+  LABEL_LIFESPAN_3_DESCRIPTION: |
+    Permet aux abeilles de vivre plus longtemps.
+
+    Le bonus est de [b]5%[/b]
+  LABEL_LIFESPAN_4_TITLE: +8% de durée de vie
+  LABEL_LIFESPAN_4_DESCRIPTION: |
+    Permet aux abeilles de vivre plus longtemps.
+
+    Le bonus est de [b]8%[/b]
+  LABEL_LIFESPAN_5_TITLE: +13% de durée de vie
+  LABEL_LIFESPAN_5_DESCRIPTION: |
+    Permet aux abeilles de vivre plus longtemps.
+
+    Le bonus est de [b]13%[/b]
+  LABEL_LIFESPAN_6_TITLE: +21% de durée de vie
+  LABEL_LIFESPAN_6_DESCRIPTION: |
+    Permet aux abeilles de vivre plus longtemps.
+
+    Le bonus est de [b]21%[/b]
+  LABEL_LIFESPAN_7_TITLE: +34% de durée de vie
+  LABEL_LIFESPAN_7_DESCRIPTION: |
+    Permet aux abeilles de vivre plus longtemps.
+
+    Le bonus est de [b]34%[/b]
+  LABEL_LIFESPAN_8_TITLE: +55% de durée de vie
+  LABEL_LIFESPAN_8_DESCRIPTION: |
+    Permet aux abeilles de vivre plus longtemps.
+
+    Le bonus est de [b]55%[/b]
+  LABEL_NIGHT_TITLE: Récolte nocturne
+  LABEL_NIGHT_DESCRIPTION: |
+    Vous permet de récolter le miel durant la nuit.
+
+    La récolte nocturne permet de découvrir de nouveaux types de miel.
+  LABEL_QUALITY_3_TITLE: Miel 3 étoiles
+  LABEL_QUALITY_3_DESCRIPTION: |
+    Permet à vos ruches de produire du miel [b]3 étoiles[/b].
+
+    Un miel 3 étoiles se vend plus cher qu'un miel 2 étoiles.
+  LABEL_QUALITY_4_TITLE: Miel 4 étoiles
+  LABEL_QUALITY_4_DESCRIPTION: |
+    Permet à vos ruches de produire du miel [b]4 étoiles[/b].
+
+    Un miel 4 étoiles se vend plus cher qu'un miel 3 étoiles.
+  LABEL_QUALITY_5_TITLE: Miel exceptionnel
+  LABEL_QUALITY_5_DESCRIPTION: |
+    Permet à vos ruches de produire du miel [b]5 étoiles[/b].
+
+    Un miel 5 étoiles se vend plus cher qu'un miel 4 étoiles.
+  LABEL_POLLEN_BONUS_0_TITLE: +1% de pollen
+  LABEL_POLLEN_BONUS_0_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de pollen.
+
+    Le bonus est de [b]1%[/b]
+  LABEL_POLLEN_BONUS_1_TITLE: +2% de pollen
+  LABEL_POLLEN_BONUS_1_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de pollen.
+
+    Le bonus est de [b]2%[/b]
+  LABEL_POLLEN_BONUS_2_TITLE: +3% de pollen
+  LABEL_POLLEN_BONUS_2_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de pollen.
+
+    Le bonus est de [b]3%[/b]
+  LABEL_POLLEN_BONUS_3_TITLE: +5% de pollen
+  LABEL_POLLEN_BONUS_3_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de pollen.
+
+    Le bonus est de [b]5%[/b]
+  LABEL_POLLEN_BONUS_4_TITLE: +8% de pollen
+  LABEL_POLLEN_BONUS_4_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de pollen.
+
+    Le bonus est de [b]8%[/b]
+  LABEL_POLLEN_BONUS_5_TITLE: +13% de pollen
+  LABEL_POLLEN_BONUS_5_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de pollen.
+
+    Le bonus est de [b]13%[/b]
+  LABEL_POLLEN_BONUS_6_TITLE: +21% de pollen
+  LABEL_POLLEN_BONUS_6_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de pollen.
+
+    Le bonus est de [b]21%[/b]
+  LABEL_POLLEN_BONUS_7_TITLE: +34% de pollen
+  LABEL_POLLEN_BONUS_7_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de pollen.
+
+    Le bonus est de [b]34%[/b]
+  LABEL_POLLEN_BONUS_8_TITLE: +55% de pollen
+  LABEL_POLLEN_BONUS_8_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de pollen.
+
+    Le bonus est de [b]55%[/b]
+  LABEL_NECTARE_BONUS_0_TITLE: +1% de nectare
+  LABEL_NECTARE_BONUS_0_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de nectare qui sert à faire du miel.
+
+    Le bonus est de [b]1%[/b]
+  LABEL_NECTARE_BONUS_1_TITLE: +2% de nectare
+  LABEL_NECTARE_BONUS_1_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de nectare qui sert à faire du miel.
+
+    Le bonus est de [b]2%[/b]
+  LABEL_NECTARE_BONUS_2_TITLE: +3% de nectare
+  LABEL_NECTARE_BONUS_2_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de nectare qui sert à faire du miel.
+
+    Le bonus est de [b]3%[/b]
+  LABEL_NECTARE_BONUS_3_TITLE: +5% de nectare
+  LABEL_NECTARE_BONUS_3_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de nectare qui sert à faire du miel.
+
+    Le bonus est de [b]5%[/b]
+  LABEL_NECTARE_BONUS_4_TITLE: +8% de nectare
+  LABEL_NECTARE_BONUS_4_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de nectare qui sert à faire du miel.
+
+    Le bonus est de [b]8%[/b]
+  LABEL_NECTARE_BONUS_5_TITLE: +13% de nectare
+  LABEL_NECTARE_BONUS_5_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de nectare qui sert à faire du miel.
+
+    Le bonus est de [b]13%[/b]
+  LABEL_NECTARE_BONUS_6_TITLE: +21% de nectare
+  LABEL_NECTARE_BONUS_6_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de nectare qui sert à faire du miel.
+
+    Le bonus est de [b]21%[/b]
+  LABEL_NECTARE_BONUS_7_TITLE: +34% de nectare
+  LABEL_NECTARE_BONUS_7_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de nectare qui sert à faire du miel.
+
+    Le bonus est de [b]34%[/b]
+  LABEL_NECTARE_BONUS_8_TITLE: +55% de nectare
+  LABEL_NECTARE_BONUS_8_DESCRIPTION: |
+    Permet aux [b]fleurs[/b] de produire plus de nectare qui sert à faire du miel.
+
+    Le bonus est de [b]55%[/b]
+  LABEL_ASTER_UNLOCK_TITLE: Graines d'Aster
+  LABEL_ASTER_UNLOCK_DESCRIPTION: |
+    Permet de planter des graines de fleur de : [b]Aster[/b]
+  LABEL_CINQUEFOIL_UNLOCK_TITLE: Graines de Potentille
+  LABEL_CINQUEFOIL_UNLOCK_DESCRIPTION: |
+    Permet de planter des graines de fleur de : [b]Potentille[/b]
+  LABEL_LAVANDER_UNLOCK_TITLE: Graines de Lavande
+  LABEL_LAVANDER_UNLOCK_DESCRIPTION: |
+    Permet de planter des graines de fleur de : [b]Lavande[/b]
+  LABEL_SUNFLOWER_UNLOCK_TITLE: Graines de Tournesol
+  LABEL_SUNFLOWER_UNLOCK_DESCRIPTION: |
+    Permet de planter des graines de fleur de : [b]Tournesol[/b]
+  LABEL_VERBENA_UNLOCK_TITLE: Graines de Verveine
+  LABEL_VERBENA_UNLOCK_DESCRIPTION: |
+    Permet de planter des graines de fleur de : [b]Verveine[/b]
+  LABEL_DAHLIA_UNLOCK_TITLE: Graines de Dahlia
+  LABEL_DAHLIA_UNLOCK_DESCRIPTION: |
+    Permet de planter des graines de fleur de : [b]Dahlia[/b]
+  LABEL_CROCUS_UNLOCK_TITLE: Graines de Crocus
+  LABEL_CROCUS_UNLOCK_DESCRIPTION: |
+    Permet de planter des graines de fleur de : [b]Crocus[/b]
+  LABEL_HELLEBORE_UNLOCK_TITLE: Graines d'Hellébore
+  LABEL_HELLEBORE_UNLOCK_DESCRIPTION: |
+    Permet de planter des graines de fleur de : [b]Hellébore[/b]
+  LABEL_SNOWDROP_UNLOCK_TITLE: Graines de Perce-neige
+  LABEL_SNOWDROP_UNLOCK_DESCRIPTION: |
+    Permet de planter des graines de fleur de : [b]Perce-neige[/b]
+  LABEL_YIELD_70_TITLE: Rendement 70%
+  LABEL_YIELD_70_DESCRIPTION: |
+    Augmente le rendement de la récolte de miel pour atteindre un rendement de [b]70%[/b].
+
+    Le reste est perdu dans la manœuvre.
+  LABEL_YIELD_75_TITLE: Rendement 75%
+  LABEL_YIELD_75_DESCRIPTION: |
+    Augmente le rendement de la récolte de miel pour atteindre un rendement de [b]75%[/b].
+
+    Le reste est perdu dans la manœuvre.
+  LABEL_YIELD_80_TITLE: Rendement 80%
+  LABEL_YIELD_80_DESCRIPTION: |
+    Augmente le rendement de la récolte de miel pour atteindre un rendement de [b]80%[/b].
+
+    Le reste est perdu dans la manœuvre.
+  LABEL_YIELD_85_TITLE: Rendement 85%
+  LABEL_YIELD_85_DESCRIPTION: |
+    Augmente le rendement de la récolte de miel pour atteindre un rendement de [b]85%[/b].
+
+    Le reste est perdu dans la manœuvre.
+  LABEL_YIELD_90_TITLE: Rendement 90%
+  LABEL_YIELD_90_DESCRIPTION: |
+    Augmente le rendement de la récolte de miel pour atteindre un rendement de [b]90%[/b].
+
+    Le reste est perdu dans la manœuvre.
+  LABEL_YIELD_95_TITLE: Rendement 95%
+  LABEL_YIELD_95_DESCRIPTION: |
+    Augmente le rendement de la récolte de miel pour atteindre un rendement de [b]95%[/b].
+
+    Le reste est perdu dans la manœuvre.
+  LABEL_YIELD_100_TITLE: Rendement parfait
+  LABEL_YIELD_100_DESCRIPTION: |
+    Augmente le rendement de la récolte de miel pour atteindre un rendement de [b]100%[/b].
+
+    Rien n'est perdu, tout est transformé.
+  LABEL_STARTING_QUALITY_2_TITLE: Qualité 2 étoiles
+  LABEL_STARTING_QUALITY_2_DESCRIPTION: |
+    La qualité du miel produit par vos ruches est d'au moins 2 étoiles.
+
+    C'est pratique quand on veut placer plus de ruches.
+  LABEL_STARTING_QUALITY_3_TITLE: Qualité 3 étoiles
+  LABEL_STARTING_QUALITY_3_DESCRIPTION: |
+    La qualité du miel produit par vos ruches est d'au moins 3 étoiles.
+
+    La qualité, c'est chouette !
+  LABEL_HIVE_AGE: Âge de la rûche
+  LABEL_HIVE_QUALITY: Qualité du miel produit
+  LABEL_YEAR: Année(s)
+  LABEL_HIVE_PRODUCTION_RAW: Production brute
+  LABEL_HIVE_CONSUMPTION: Consommation
+  LABEL_HIVE_PRODUCTION_NET: Production nette
+  LABEL_FLOOR_TYPE: Type de sol
+  LABEL_FLOOR_GRASS: Prairie
+  LABEL_FLOOR_ROCK: Rocailleux
+  LABEL_SELECT_HIVE: Sélectionnez une [pulse freq=1.0 color=#ffffff40 ease=-2.0][b]RUCHE[/b][/pulse]
+  LABEL_SELECT_SEED: Sélectionnez une [pulse freq=1.0 color=#ffffff40 ease=-2.0][b]PLANTE[/b][/pulse]
+  LABEL_DAY_CYCLE_NIGHT: Nuit
+  LABEL_DAY_CYCLE_MORNING: Matin
+  LABEL_DAY_CYCLE_EVENING: Soirée
+  LABEL_DAY_CYCLE_AFTERNOON: Après-midi
+  LABEL_HIVE_LARVA: Larves
+  LABEL_HIVE_BEE: Abeilles
+  LABEL_HIVE_POPULATION: Population
+  LABEL_HIVE_MONTHLY_CONSUMPTION_NECTARE: Consommation mensuelle de nectar
+  LABEL_HIVE_MONTHLY_CONSUMPTION_POLLEN: Consommation mensuelle de pollen
+  LABEL_HIVE_MONTHLY_CONSUMPTION_WATER: Consommation mensuelle d'eau
+  LABEL_HIVE_NECTARE: Nectar
+  LABEL_HIVE_SUGAR: Sucre
+  LABEL_HIVE_POLLEN: Pollen
+  LABEL_HIVE_WATER: Eau
+  LABEL_HIVE_HONEY: Miel
+  LABEL_HIVE_BIRTH: Naissances
+  LABEL_HIVE_RESOURCES: Ressources
+  LABEL_HIVE_MONTHLY_CONSUMPTION: Consommation mensuelle
+  LABEL_HIVE_MONTHLY_PRODUCTIVITY: Production mensuelle
+  LABEL_HIVE_PRODUCTIVITY: Productivité
+  LABEL_SEASON_WINTER: Hiver
+  LABEL_SEASON_SPRING: Printemps
+  LABEL_SEASON_SUMMER: Été
+  LABEL_SEASON_AUTUMN: Automne
+  LABEL_OBJECT_WATER: Eau
+  LABEL_OBJECT_ROCK: Roche
+  LABEL_OBJECT_PEBBLE: Caillou
+  LABEL_OBJECT_TREE: Arbre
+  LABEL_OBJECT_BUSH: Buisson
+  LABEL_OBJECT_HIVE: Rûche
+  LABEL_OBJECT_GRASS: Mauvaises herbes
+  LABEL_OBJECT_WILD_FLOWERS: Fleurs sauvages
+  LABEL_DAY: Jour
+  LABEL_FLOWER_PLANT: Prêt à planter
+  LABEL_QUANTITY_NONE: Aucun
+  LABEL_QUANTITY_LOW: Faible
+  LABEL_QUANTITY_NORMAL: Normal
+  LABEL_QUANTITY_ABUNDANT: Abondant
+  LABEL_QUANTITY_VERY_ABUNDANT: Très Abondant
+  LABEL_GROWTH_SLOW: Lente
+  LABEL_GROWTH_FAST: Rapide
+  LABEL_GROWTH_NORMAL: Normale
+  LABEL_FLOWER_GROWTH: Croissance
+  LABEL_FLOWER_BLOOMING: En fleur
+  LABEL_FLOWER_MATURITY: Maturité
+  LABEL_FLOWER_GROWING: En croissance
+  LABEL_FLOWER_YOUNG: Jeune pousse
+  LABEL_FLOWER_DEVELOPMENT: Développement
+  LABEL_FLOWER_MATURE: Mature
+  LABEL_FLOWER_NECTAR: Nectar
+  LABEL_FLOWER_POLLEN: Pollen
+  LABEL_MONTH_JANUARY: Janvier
+  LABEL_MONTH_FEBRUARY: Février
+  LABEL_MONTH_MARCH: Mars
+  LABEL_MONTH_APRIL: Avril
+  LABEL_MONTH_MAY: Mai
+  LABEL_MONTH_JUNE: Juin
+  LABEL_MONTH_JULY: Juillet
+  LABEL_MONTH_AUGUST: Août
+  LABEL_MONTH_SEPTEMBER: Septembre
+  LABEL_MONTH_OCTOBER: Octobre
+  LABEL_MONTH_NOVEMBER: Novembre
+  LABEL_MONTH_DECEMBER: Décembre
+  LABEL_FLOWER_ASTER: Aster
+  LABEL_FLOWER_CHRYSANTHEME: Chrysantheme
+  LABEL_FLOWER_BOURRACHE: Bourrache
+  LABEL_FLOWER_POTENTILLE: Potentille
+  LABEL_FLOWER_LAVANDE: Lavande
+  LABEL_FLOWER_TOURNESOL: Tournesol
+  LABEL_FLOWER_VERVEINE: Verveine
+  LABEL_FLOWER_DAHLIA: Dahlia
+  LABEL_FLOWER_CROCUS: Crocus
+  LABEL_FLOWER_HELLEBORE: Hellebore
+  LABEL_FLOWER_PERCENEIGE: Perceneige
+  LABEL_HONEY_SPRING: Miel de Printemps
+  LABEL_HONEY_SUMMER: Miel d'Été
+  LABEL_HONEY_FLOWERS: Miel de Fleurs
+  LABEL_HONEY_ASTER: Miel d'Aster
+  LABEL_HONEY_CHRYSANTHEME: Miel de Chrysantheme
+  LABEL_HONEY_BOURRACHE: Miel de Bourrache
+  LABEL_HONEY_POTENTILLE: Miel de Potentille
+  LABEL_HONEY_LAVANDE: Miel de Lavande
+  LABEL_HONEY_TOURNESOL: Miel de Tournesol
+  LABEL_HONEY_VERVEINE: Miel de Verveine
+  LABEL_HONEY_CROCUS: Miel de Crocus
+  LABEL_HONEY_HELLEBORE: Miel de Hellebore
+  LABEL_HONEY_PERCENEIGE: Miel de Perceneige
+
+  LABEL_OPTION_PANEL: Options
+  LABEL_MUSIC_VOLUME: Volume de la musique
+  LABEL_SOUNDFX_VOLUME: Volume des effets sonores
+  LABEL_WINDOWS_FULLSCREEN: Plein écran
+
+  LABEL_NOTIFICATION_WEATHER_TOO_HOT_TO_LAY_EGG: |
+    Votre rûche prend les dispositions pour survivre à la chaleur extrême.
+    La reine prend les dispositions pour se préserver, et ne pond pas d'oeufs pour le moment.
+  LABEL_NOTIFICATION_WEATHER_TOO_HOT_TO_WORK: |
+    Il fait tellement chaud dehors, il serait trop dangereux pour les abeilles de sortir travailler.
+    Elles vont rester au frais pour le moment.
+  LABEL_NOTIFICATION_WEATHER_TOO_COLD_TO_WORK: |
+    Il fait tellement froid dehors, il serait trop dangereux pour les abeilles de sortir travailler.
+    Elles vont rester au chaud pour le moment.
+  LABEL_NOTIFICATION_WEATHER_TOO_COLD_TO_LAY_EGG: |
+    Vos abeilles prennent les dispositions pour survivre au froid polaire.
+    La reine prend les dispositions pour se préserver, et ne pond pas d'oeufs pour le moment.
+  LABEL_NOTIFICATION_WEATHER_TOO_WIND_TO_WORK: |
+    Il y a trop de vent pour travailler. Les abeilles ne parviendraient pas a s'orienter.
+    Elles vont rester au chaud pour le moment.
+  LABEL_NOTIFICATION_WEATHER_TOO_RAINY_TO_WORK: |
+    Il y a trop de pluie pour travailler. Les abeilles ne parviendraient pas a voler.
+    Elles vont rester au chaud pour le moment.
+  LABEL_NOTIFICATION_HIVE_FULL_OF_POLLEN: |
+    Vos abeilles ont bien travaillées.
+    Il est temps de récolter le pollen.
+  LABEL_NOTIFICATION_HIVE_FULL_OF_HONEY: |
+    Vos abeilles ont bien travaillées.
+    Il est temps de récolter le miel.
+  LABEL_NOTIFICATION_HIVE_NEED_SUGAR: |
+    Vos abeilles ont faim, vous devriez leur donner un peu de sucre.
+  LABEL_NOTIFICATION_HIVE_NO_FLOWER_TO_HARVEST: |
+    Vos abeilles ne trouvent pas de fleur a butiner.
+    Peut-être devriez-vous en planter.
+  LABEL_NOTIFICATION_NO_MORE_SUGAR: |
+    Il n'y a plus de sucre dans les entrepots !
+
+  LABEL_LOAD_SAVEGAME: Charger une sauvegarde
+  LABEL_SAVEGAME_OVERWRITE_TITLE: Écraser la sauvegarde ?
+  LABEL_SAVEGAME_OVERWRITE_DESCRIPTION: Une sauvegarde existe déjà avec ce nom. Voulez-vous l'écraser ?
+  LABEL_SAVEGAME_NAME_TITLE: Nom de la sauvegarde
+  LABEL_HONEY_AUTUMN: Miel d'automne
+  LABEL_HONEY_MOON: Lune de miel
+  LABEL_HONEY_FAIRYNIGHT: Miel féérique
+  LABEL_HONEY_MIDSUMMER: Miel du solstice
+  LABEL_HONEY_HARVESTMOON: Miel des moissons
+
+  LABEL_HARVEST_HONEY_TITLE: Récolte du miel
+  LABEL_FLOWER_COMPOSITION: Liste des fleurs
+  LABEL_ADDED_TO_YOUR_STOCK: Ajouté a votre stock
+  LABEL_INVALID_FLOWER_COMPOSITION: Pas assez de fleurs
+  LABEL_UNKNOWN_HONEY: Miel inconnu
+  LABEL_LIST_OF_HONEY: Liste des miels
+  LABEL_HONEY_TOTAL_QUANTITY: Quantité totale de miel
+
+  PLACEHOLDER_SAVEGAME_NAME: Entrez le nom de la sauvegarde...
+
+  TOOLTIP_CANNOT_BUILD_MORE_HIVE_MAX: |
+    Vous avez atteint le nombre maximal de ruche possible.
+    Vous ne pouvez pas en construire plus.
+  TOOLTIP_CANNOT_BUILD_MORE_HIVE: |
+    Vous ne pouvez pas constriure plus de ruches pour le moment.
+
+    Mais vous pouvez débloquer une nouvelle technologie qui va vous permettre de poser une ruche supplémentaire
+  TOOLTIP_HARVEST_HONEY: |
+    Cliquez sur ce bouton pour récolter tout le miel.
+
+    Une fois récolté, tout le nectare de la rûche sera consommé.
+    Il faut donc veiller a ce qu'elle ait suffisamment de sucre
+    avant de récolter le miel.
+  TOOLTIP_CANNOT_HARVEST_HONEY: |
+    Soit il n'y a pas assez de nectare, soit les fleurs qui composent
+    ce nectare ne feront pas un bon miel.
+  TOOLTIP_HIVE_FULL_OF_HONEY: |
+    La rûche est pleine de miel.
+
+    Du coup les abeilles n'ont plus besoin de travailler.
+    Vous pouvez soit aggrandir la rûche pour pouvoir stocker plus de miel,
+    soit récolter le miel pour faire de la place.
+  TOOLTIP_CANNOT_PLANT_SEED: |
+    Vous [b]ne[/b] pouvez [b]pas[/b] encore planter des [pulse freq=1.0 color=#ffffff40 ease=-2.0][b]%ss[/b][/pulse].  Vous pourrez en planter dès [b]%s[/b].
+  TOOLTIP_SHOW_TOOLTIP: |
+    Montrer/cacher les infobulles
+  TOOLTIP_SHOW_FLOWER_PANEL: |
+    Montrer/cacher les panneaux des fleurs
+  TOOLTIP_HIVE_SUGAR_FULL: |
+    La ruche est pleine de sucre
+  TOOLTIP_HIVE_BUY_SUGAR: |
+    Acheter %0.2f kg de sucre pour %0.2f $
+  TOOLTIP_NOT_ENOUGH_MONEY: |
+    Pas assez d'argent
+  TOOLTIP_HIVE_NO_HONEY_TO_HARVEST: |
+    Pas de miel à récolter
+  TOOLTIP_NO_HONEY: |
+    Vous n'avez pas de miel.
+
+    Pour en récolter, cliquez sur une rûche.
+  TOOLTIP_CANNOT_BUY_NOT_ENOUGH_HONEY_OR_MONEY: |
+    Vous n'avez pas assez de miel ou d'argent pour acheter ceci.

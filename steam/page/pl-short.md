@@ -1,0 +1,1 @@
+Doświadcz emocji Fortune Avenue, przemyślanej na nowo gry monopoly 3D. Podróżuj przez lotnisko, unikaj topiących się kier lodowych i kręć Kołem Fortuny. Głosuj nad nowymi zasadami zmieniającymi grę i eliminuj przeciwników dla bonusów. Szybka i nieskończenie zabawna rozgrywka! 🎲 🏨

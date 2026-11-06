@@ -1,0 +1,1 @@
+Experimenta la emoción de Fortune Avenue, un juego de monopolio en 3D reinventado. Viaja por aeropuerto, evita témpanos de hielo derretidos y gira la Rueda de la Fortuna. Vota por nuevas reglas que cambian el juego y elimina oponentes por bonificaciones. ¡Rápido y eternamente divertido! 🎲 🏨

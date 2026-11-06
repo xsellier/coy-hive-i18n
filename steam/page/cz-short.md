@@ -1,0 +1,1 @@
+Zažijte vzrušení z Fortune Avenue, přepracované 3D monopolní hry. Cestujte letištěm, vyhýbejte se tajícím ledovým krám a roztočte Kolo štěstí. Hlasujte o nových pravidlech měnících hru a eliminujte soupeře pro bonusy. Rychlá a nekonečně zábavná hra! 🎲 🏨

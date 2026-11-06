@@ -1,0 +1,1 @@
+Un jeu de société compétitif où les joueurs votent pour façonner leur destin. Transformez vos caravanes en hôtels 5 étoiles et collectionnez des merveilles. Prenez l'avion pour surpasser vos rivaux, organisez des Coupes du Monde pour multiplier vos loyers. Pourrez-vous créer un monopole mondial ?
